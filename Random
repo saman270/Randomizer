@@ -9,6 +9,88 @@ public class RandomNumberGenerator {
         int randomNumber = random.nextInt(100) + 1;
 
         // Выводим случайное число
+        System.out.println("Случайное число: " + randomNumber);    Random random = new Random();
+
+        // Генерируем случайное число от 1 до 100
+        int randomNumber = random.nextInt(100) + 1;
+
+        // Выводим случайное число
+        System.out.println("Случайное число: " + randomNumber);    Random random = new Random();
+
+        // Генерируем случайное число от 1 до 100
+        int randomNumber = random.nextInt(100) + 1;
+
+        // Выводим случайное число
+        System.out.println("Случайное число: " + randomNumber);    Random random = new Random();
+
+        // Генерируем случайное число от 1 до 100
+        int randomNumber = random.nextInt(100) + 1;
+
+        // Выводим случайное число
+        System.out.println("Случайное число: " + randomNumber);    Random random = new Random();
+
+        // Генерируем случайное число от 1 до 100
+        int randomNumber = random.nextInt(100) + 1;
+
+        // Выводим случайное число
+        System.out.println("Случайное число: " + randomNumber);    Random random = new Random();
+
+        // Генерируем случайное число от 1 до 100
+        int randomNumber = random.nextInt(100) + 1;
+
+        // Выводим случайное число
+        System.out.println("Случайное число: " + randomNumber);    Random random = new Random();
+
+        // Генерируем случайное число от 1 до 100
+        int randomNumber = random.nextInt(100) + 1;
+
+        // Выводим случайное число
+        System.out.println("Случайное число: " + randomNumber);    Random random = new Random();
+
+        // Генерируем случайное число от 1 до 100
+        int randomNumber = random.nextInt(100) + 1;
+
+        // Выводим случайное число
+        System.out.println("Случайное число: " + randomNumber);    Random random = new Random();
+
+        // Генерируем случайное число от 1 до 100
+        int randomNumber = random.nextInt(100) + 1;
+
+        // Выводим случайное число
+        System.out.println("Случайное число: " + randomNumber);    Random random = new Random();
+
+        // Генерируем случайное число от 1 до 100
+        int randomNumber = random.nextInt(100) + 1;
+
+        // Выводим случайное число
+        System.out.println("Случайное число: " + randomNumber);    Random random = new Random();
+
+        // Генерируем случайное число от 1 до 100
+        int randomNumber = random.nextInt(100) + 1;
+
+        // Выводим случайное число
+        System.out.println("Случайное число: " + randomNumber);    Random random = new Random();
+
+        // Генерируем случайное число от 1 до 100
+        int randomNumber = random.nextInt(100) + 1;
+
+        // Выводим случайное число
+        System.out.println("Случайное число: " + randomNumber);    Random rand
+
+
+
+);
+
+        // Генерируем случайное число от 1 до 100
+        int randomNumber = random.nextInt(100) + 1;
+
+        // Выводим случайное число
+        System.out.println("Случайное число: " + randomNumber);    Random random = new Random();
+
+        // Генерируем случайное число от 1 до 100
+        int randomNumber = random.nextInt(100) + 1;
+
+        // Выводим случайное число
         System.out.println("Случайное число: " + randomNumber);
     }
 }
