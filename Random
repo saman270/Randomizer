@@ -1,3 +1,4 @@
+Этот код использует класс Random для генерации случайных чисел и выводит случайное целое число от 1 до 100 при каждом запуске программы.
 import java.util.Random;
 
 public class RandomNumberGenerator {
@@ -12,8 +13,13 @@ public class RandomNumberGenerator {
         System.out.println("Случайное число: " + randomNumber);    Random random = new Random();
 
         }
-}
-Этот код использует класс Random для генерации случайных чисел и выводит случайное целое число от 1 до 100 при каждом запуске программы.
+} Random random = new Random();
+
+        // Генерируем случайное число от 1 до 100
+        int randomNumber = random.nextInt(100) + 1;
+
+        // Выводим случайное число
+
 
 
 
